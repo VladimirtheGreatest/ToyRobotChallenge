@@ -90,7 +90,7 @@ Expected output
 
 1. You can just clone this repo and run this app in the Visual Studio.Click on ToyRobotMain solution.  Set ToyRobotMain as a starting project. Build => Build Solution => Press F5 start debugging. Run tests by clicking Test => Run All tests.
 
-2. You can publish this app into your local folder or ask me for an executable.
+2. Download the ZIP folder Go to the folder Release. C:\Release\net5.0\publish\win-x64  Click on the icon ToyRobotMain(type application)
 
 
 ### Thoughts:
