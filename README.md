@@ -1,7 +1,6 @@
 # Welcome to Vladimir`s Legendary Toy Robot Simulator 3600.
 
 
-<img align="left" alt="robot" width="300px" src="https://i.postimg.cc/7LdjrT2D/ROBOT.png" />
 
 ## Table of contents:
 
